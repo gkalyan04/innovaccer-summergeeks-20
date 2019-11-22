@@ -1,4 +1,4 @@
-# [Innovaccer SummerGeeks 2020](https://github.com/gkalyan04/Innovaccer_SummerGeeks)
+# [Innovaccer SummerGeeks 2020](https://github.com/gkalyan04/innovaccer-summergeeks-20)
 
 ## Assignment for SDE - Intern (Applications)
 
