@@ -1,2 +1,4 @@
 /node_modules
-*.html linguist-detectable=false
+* linguist-vendored
+*.html linguist-vendored=false
+*.ejs linguist-vendored=false
