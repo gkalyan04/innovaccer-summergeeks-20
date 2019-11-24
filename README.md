@@ -19,9 +19,9 @@ OR
 npm install
 ```
 
-3. Make sure, MongoDB is running. If not installed, then install from [here](https://docs.mongodb.com/manual/installation/)
+3. Make sure, MongoDB is running. If not installed, then install from [here](https://docs.mongodb.com/manual/installation/).
 
-4. Setup `NodeMailer` and `Twilio SMS Api` configuration. Just go to `routes.js` , then simply enter your configuration.
+4. Setup <strong>NodeMailer</strong> and <strong>Twilio SMS Api</strong> configuration. Just go to `routes.js` , then simply enter your configuration.
 
 5. Run the program either by `npm` or `yarn` using
 ```bash
@@ -35,6 +35,8 @@ The **console** logs the following if the app is running properly
 ```bash
 Connected to database at: mongodb://localhost:27017/database
 ```
+
+6. Navigate to `http://localhost:5000`
 
 ## Project Folder Structure
 
