@@ -101,9 +101,6 @@ Event Management Service is based on an idea which stores data of a visitor and 
 * Check Portal
 ![Check-out Portal](https://i.ibb.co/TLHRHf0/Screenshot-from-2019-11-28-14-48-46.png)
 
-* Host Portal
-![Host Portal](https://i.ibb.co/Yd5nxRb/Screenshot-from-2019-11-28-14-48-08.png)
-
 * SMS & Email sent to Host when new visitor checks in.
 ![SMS-host](https://i.ibb.co/BKW2mtV/combine-images.jpg)
 
