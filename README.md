@@ -64,9 +64,7 @@ Connected to database at: mongodb://localhost:27017/database
 
 ## Technology Stack
 
- - Node.js
- - Express.js
- - MongoDB
- - Twilio messaging API
- - NodeMailer email API
+* Front-End : [EJS](https://ejs.co/), [HTML](https://html.com/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Bootstrap](https://getbootstrap.com/).
+* Back-End : [NodeJS](https://nodejs.org/en/), [ExpressJS](https://expressjs.com/), [Nodemailer](https://nodemailer.com/about/)(Mail service), [twilio](https://www.twilio.com/docs/sms/api)(Message Service).
+* Database: [MongoDB](https://www.mongodb.com/).
 
