@@ -98,7 +98,7 @@ Event Management Service is based on an idea which stores data of a visitor and 
 * Check-in Portal
 ![Check-in Portal](https://i.ibb.co/1Kr1v7z/Screenshot-from-2019-11-28-14-47-59.png)
 
-* Check Portal
+* Check-out Portal
 ![Check-out Portal](https://i.ibb.co/TLHRHf0/Screenshot-from-2019-11-28-14-48-46.png)
 
 * SMS & Email sent to Host when new visitor checks in.
